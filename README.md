@@ -167,4 +167,4 @@ Sorted alphabetically
 | [![Victoria's Secret](https://www.google.com/s2/favicons?domain=https://www.victoriassecret.com)](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
 | [![Zeplin](https://www.google.com/s2/favicons?domain=https://zeplin.io)](https://zeplin.io) | Zeplin | `1.9` | | |
 | [![Zeppidy](https://www.google.com/s2/favicons?domain=https://zeppidy.com)](https://zeppidy.com) | Zeppidy | `1.8` | | |
-| [![41max.com Personal Knowledge Mgmt](https://www.google.com/s2/favicons?domain=https://www.41max.com)](https://www.41max.com) | 41max.com Personal Knowledge Mgmt | `2.0` | ✅ | |
+| [![41max.com Personal Knowledge Mgmt](https://www.google.com/s2/favicons?domain=https://www.41max.com)](https://www.41max.com) | 41max.com Personal Knowledge Mgmt | `2.1` | ✅ | |
